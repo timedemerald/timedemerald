@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @timedemerald
-- 💻 Knows php,html,css and python
+- 💻 Knows html,css and php
